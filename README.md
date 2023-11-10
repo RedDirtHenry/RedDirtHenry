@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World 👋
+
+- 🔭 I’m currently working on mathematical optimizations and time-series demand forecasting.
+- 🌱 I’m currently learning front-end software engineering, as it's something I've never done before
+- 😄 Pronouns: He/him
 
 <!--
 **RedDirtHenry/RedDirtHenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
