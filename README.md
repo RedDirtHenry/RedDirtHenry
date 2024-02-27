@@ -1,7 +1,8 @@
 # Hello World 👋
 
-- 🔭 I’m currently working on mathematical optimizations and time-series demand forecasting.
-- 🌱 I’m currently learning front-end software engineering, as it's something I've never done before
+- 🔭 I’m currently working on time-series demand forecasting and stochastic optimizations.
+- 🌱 I’m currently learning about LLM's (who isn't?) and front-end software engineering, as it's something I've never done before
+- 👯‍♂️ I'm looking to collaborate on my first open source projects
 - 😄 Pronouns: He/him
 
 <!--
